@@ -12,4 +12,4 @@ number of films made before and after it?*
 Python, [pandas](pandas.pydata.org), and [D3.js](d3js.org) were used for the analysis and visualization. 
 The data was pulled from [IMDB's data dumps](www.imdb.com/interfaces) on 2014-01-21.
 
-Read more about the analysis [here]().
+Read more about the analysis [here](http://reda.io/1aO2tUH).
