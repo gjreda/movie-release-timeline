@@ -9,7 +9,7 @@ That statement spurred a pretty interesting question: *what's the date where tha
 statement is no longer true?* Put another way, *what date in history has an equal 
 number of films made before and after it?*
 
-Python, [pandas](pandas.pydata.org), and [D3.js](d3js.org) were used for the analysis and visualization. 
-The data was pulled from [IMDB's data dumps](www.imdb.com/interfaces) on 2014-01-21.
+Python, [pandas](http://pandas.pydata.org/), and [D3.js](http://d3js.org/) were used for the analysis and visualization. 
+The data was pulled from [IMDB's data dumps](http://www.imdb.com/interfaces) on 2014-01-21.
 
 Read more about the analysis [here](http://reda.io/1aO2tUH).
